@@ -80,7 +80,6 @@ npx tailwindcss init -p
 
 ---
 # 🗂 Project Structure
-```
 markopolo-ai-full-stack-challenge/
 ├── public/
 │   ├── index.html      ✅ required
