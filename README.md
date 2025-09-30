@@ -80,11 +80,7 @@ npx tailwindcss init -p
 
 ---
 
-meldcx/
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── README.md
+markopolo-ai-full-stack-challenge/
 ├── public/
 │   ├── index.html      ✅ required
 │   └── favicon.ico     (optional, can leave empty or use CRA’s default)
@@ -93,6 +89,10 @@ meldcx/
 │   ├── App.js
 │   ├── index.js
 │   ├── index.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
 # 🗂 Project Structure
 ```
 markopolo-ai-full-stack-challenge
