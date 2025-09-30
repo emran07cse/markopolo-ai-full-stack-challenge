@@ -81,22 +81,18 @@ npx tailwindcss init -p
 ---
 
 meldcx/
-│ .env
-│ package.json
-│ server.js
-│ README.md
-├─ src/
-│  ├─ routes/
-│  │   └─ files.js
-│  ├─ storage/
-│  │   └─ localStorage.js
-│  ├─ middleware/
-│  │   └─ rateLimit.js
-│  └─ jobs/
-│      └─ cleanup.js
-└─ __tests__/
-   ├─ files.test.js
-   └─ localStorage.test.js
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+├── public/
+│   ├── index.html      ✅ required
+│   └── favicon.ico     (optional, can leave empty or use CRA’s default)
+│
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   ├── index.css
 # 🗂 Project Structure
 ```
 markopolo-ai-full-stack-challenge
