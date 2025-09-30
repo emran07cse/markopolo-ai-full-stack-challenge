@@ -79,7 +79,8 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 ---
-
+# 🗂 Project Structure
+```
 markopolo-ai-full-stack-challenge/
 ├── public/
 │   ├── index.html      ✅ required
@@ -93,37 +94,16 @@ markopolo-ai-full-stack-challenge/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md
-# 🗂 Project Structure
-```
-markopolo-ai-full-stack-challenge
-│
-├── public/
-│   ├── index.html      ✅ required
-│   └── favicon.ico     (optional, can leave empty or use CRA’s default)
-│
-├── src/
-│   ├── App.js
-│   ├── index.js
-│   ├── index.css
-│
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── README.md
 
 ```## 🎯 Example Query
 - "Recommend a 3-step campaign for cart abandoners"
-
 
 The system will simulate and stream a JSON execution plan including:
 - Target audience segments
 - Recommended channels
 - Message personalization
 - Send times
-
-
 ---
-
 
 ## 📥 Download JSON
 Use the **Download** button to export the generated payload as a `.json` file for later execution.
