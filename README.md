@@ -79,6 +79,24 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 ---
+
+meldcx/
+│ .env
+│ package.json
+│ server.js
+│ README.md
+├─ src/
+│  ├─ routes/
+│  │   └─ files.js
+│  ├─ storage/
+│  │   └─ localStorage.js
+│  ├─ middleware/
+│  │   └─ rateLimit.js
+│  └─ jobs/
+│      └─ cleanup.js
+└─ __tests__/
+   ├─ files.test.js
+   └─ localStorage.test.js
 # 🗂 Project Structure
 ```
 markopolo-ai-full-stack-challenge
