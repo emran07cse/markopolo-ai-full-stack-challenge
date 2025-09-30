@@ -62,7 +62,7 @@ Channels: Email, SMS, Push, WhatsApp, Voice, Messenger, Ads.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/perplexity-chat-interface.git
+git clone https://github.com/emran07cse/markopolo-ai-full-stack-challenge.git
 cd perplexity-chat-interface
 ```
 
@@ -123,3 +123,5 @@ Use the **Download** button to export the generated payload as a `.json` file fo
 MIT License — feel free to use and modify.
 
 --- 
+##Sample picture
+<img width="657" height="878" alt="image" src="https://github.com/user-attachments/assets/117c321a-792e-46dc-a588-a55fa2e9f9d8" />
